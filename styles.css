@@ -73,6 +73,9 @@ color: #FFFFFF;
 
 }
 .section1{
+	position: absolute;
+	top:102px;
+	left:0px;
 	background-color: black;
     height: 880px;
     width: 1512px;
@@ -319,6 +322,8 @@ color: #FFFFFF;
 
 }
 .section3{
+	position:absolute;
+	left:0px
 	height: 480px;
 	width: 1512px;
 	border-radius: 0px;
